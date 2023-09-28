@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/django-rest-celery-demo.iml" filepath="$PROJECT_DIR$/.idea/django-rest-celery-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../drf_celery_demo/.idea/drf_celery_demo.iml" filepath="$PROJECT_DIR$/../drf_celery_demo/.idea/drf_celery_demo.iml" />
     </modules>
   </component>
 </project>
